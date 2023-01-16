@@ -1,0 +1,20 @@
+﻿  DocumentScanner.cpp
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(59,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(64,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(110,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(111,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(112,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(113,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(140,57): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(140,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(174,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Document_scanner\DocumentScanner.cpp(175,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project_Document_scanner.vcxproj -> D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\x64\Debug\Project_Document_scanner.exe

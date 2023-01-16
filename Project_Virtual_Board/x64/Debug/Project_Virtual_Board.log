@@ -1,0 +1,4 @@
+﻿  VirtualBoard.cpp
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Virtual_Board\VirtualBoard.cpp(49,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\Project_Virtual_Board\VirtualBoard.cpp(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project_Virtual_Board.vcxproj -> D:\Win7_Vostro\G_Drive\VectorCAST_Copy\SKY\10.OpenCV\WorkingDirectory\Open_CV_Project\x64\Debug\Project_Virtual_Board.exe
